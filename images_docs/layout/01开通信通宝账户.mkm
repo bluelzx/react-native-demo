@@ -1,0 +1,11 @@
+<MKM version="2.0" imageFileUrl="file:///Volumes/Store/%E7%99%BE%E5%BA%A6%E4%BA%91%E5%90%8C%E6%AD%A5%E7%9B%98/Downloads/xtb/IMG_0031.jpg">
+  <Marks>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15067883" offsetX="25" offsetY="10" x="308" y="225"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16544256" offsetX="25" offsetY="10" x="163" y="264"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="12961218" offsetX="25" offsetY="10" x="472" y="278"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6645866" offsetX="25" offsetY="10" x="637" y="338"/>
+    <LengthMark direction="3" color="16711680" length="242" x="13" y="193"/>
+    <LengthMark direction="12" color="16711680" length="79" x="581" y="276"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="642" y="240" textMaxWidth="100" offsetX="25" offsetY="10" text="23px"/>
+  </Marks>
+</MKM>
